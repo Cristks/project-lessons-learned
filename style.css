@@ -4,15 +4,16 @@ body {
 
 h1 {
     color: rgb(3, 3, 233);
-    text-align: center 
+    
 }
 #cabecalho {
     position: fixed;
     top: 0;
-    color: aqua;
-    width: 90%;
+    width: 100%;
     text-align: center;
-
+    border-top: 1px #f1f0e8 solid;
+    background-color: aquamarine;
+        
 }
 
 #titulo {
