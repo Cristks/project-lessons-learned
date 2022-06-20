@@ -1,3 +1,22 @@
 body {
-    background-color:rgb(253, 251, 251) ;
+    background-color:rgb(253, 251, 251);
+}
+
+h1 {
+    color: rgb(3, 3, 233);
+    text-align: center 
+}
+#cabecalho {
+    position: fixed;
+    top: 0;
+    color: aqua;
+    width: 90%;
+    text-align: center;
+
+}
+
+#titulo {
+    color: rgb(3, 3, 233);
+    text-align: center;
+    display: inline-block;
 }
