@@ -1,10 +1,9 @@
 body {
-    background-color:rgb(253, 251, 251);
+background-color:rgb(253, 251, 251);
 }
 
 h1 {
     color: rgb(3, 3, 233);    
-    
 }
 
 li {
@@ -15,23 +14,24 @@ li {
     top: 0;
     width: 100%;
     text-align: center;
-    border-top: 1px #f1f0e8 solid;
-    background-color: aquamarine;
-        
-}
+    background-color: aquamarine;      
+    }
 
 #titulo {
     color: rgb(3, 3, 233);
     text-align: center;
     display: inline-block;
-}
+    }
+
 #navinicio { 
     display: inline;
     color: black;
-}
+    }
+
 .foto {
 border:  1px red solid;
 }
+
 #licoes_aprendidas {
     width: 50%;
     display: inline-block;
@@ -39,10 +39,9 @@ border:  1px red solid;
     margin-right: 0;
     margin-left: 40%;
     padding: 10px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 3px solid rgb(255, 251, 0)
-    
+    font-family:Arial, Helvetica, sans-serif;   
 }
+
 #licoes_a_aprender {
     width: 50%;
     display: inline-block;
@@ -50,8 +49,17 @@ border:  1px red solid;
     margin-right: 0;
     margin-left: 40%;
     padding: 10px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    border: 3px solid rgb(255, 251, 0)
-    
+    font-family: Arial, Helvetica, sans-serif;
+}
 
+#rodape {
+    border:  2px grey solid; 
+    line-height: 0em;
+    font-size: 15px;
+    display: inline-block;
+    background-color: rgb(233, 18, 18);
+    margin-bottom: auto;
+ 
+
+    
 }
