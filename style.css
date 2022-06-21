@@ -66,11 +66,10 @@ border:  1px red solid;
     background-color: rgb(233, 18, 18);
     margin-bottom: auto;     
      }
-#aside {
+#lado-direito {
     border: 70px;
     margin-left: 70%;
     top: 210px; 
    position: absolute;
-    width: 20ch;
-  
+    width: 20ch; 
 }     
