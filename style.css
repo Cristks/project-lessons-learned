@@ -1,14 +1,26 @@
-body {
+body{
 background-color:rgb(253, 251, 251);
 }
 h1{
 color:rgb(3, 3, 233);    
 }
+h2{
+text-align: center;
+color: rgb(39, 39, 9);
+}
+h3 {
+      text-align: center;
+      color:rgb(31, 31, 15);
+      margin-left: auto;
+      margin-right: auto;
+}
 
 p {
-    width: 80ch;
+    max-width: 600ch;
+    overflow: hidden;
+    text-overflow:ellipsis;
     text-align: justify;
-
+    width: 90%;
 }
 
 li {
@@ -33,21 +45,23 @@ li {
     color:black;
     }
 
-#foto {
+#minha_foto {
 display:block;
 max-width:100%;
 border-radius:25%;
+margin-left: 20%;
 }
 
+
 #licoes_aprendidas {
-    width:35%;
-    display:inline-block;
+    width:50%;
+    display:block;
     margin:10px;
     font-family:Arial, Helvetica, sans-serif;   
 }
 
 #licoes_a_aprender {
-    width: 35%;
+    width: 50%;
     display: inline-block;
     margin: 10px;
     font-family: Arial, Helvetica, sans-serif;
@@ -65,11 +79,18 @@ border-radius:25%;
 #lado-direito {
     border: 70px;
     margin-left: 70%;
-    top: 210px; 
+    top: 100px; 
    position: absolute;
-    width: 20ch; 
+    width: 40ch; 
 } 
 
+#lado-esquerdo {
+    max-width: 600ch;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    text-align: justify;
+    width: 75%;
+}
 .licoes {
     display: inline-block;
     width: 70%;
