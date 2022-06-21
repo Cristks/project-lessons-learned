@@ -6,6 +6,12 @@ h1 {
     color: rgb(3, 3, 233);    
 }
 
+p {
+    width: 150ch;
+    text-align: justify;
+
+}
+
 li {
     color: black;
 }
