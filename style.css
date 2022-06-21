@@ -1,9 +1,8 @@
 body {
 background-color:rgb(253, 251, 251);
 }
-
-h1 {
-    color: rgb(3, 3, 233);    
+h1{
+color:rgb(3, 3, 233);    
 }
 
 p {
@@ -13,38 +12,37 @@ p {
 }
 
 li {
-    color: black;
+    color:black;
 }
 #cabecalho {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    text-align: center;
-    background-color: aquamarine;      
+    position:fixed;
+    top:0;
+    width:100%;
+    text-align:center;
+    background-color:aquamarine;      
     }
 
 #titulo {
-    color: rgb(3, 3, 233);
-    text-align: center;
-    display: inline-block;
+    color:rgb(3, 3, 233);
+    text-align:center;
+    display:inline-block;
     }
 
 #navinicio { 
-    display: inline;
-    color: black;
+    display:inline;
+    color:black;
     }
 
 #foto {
-display: block;
-max-width: 100%;
-border-radius: 25%;
+display:block;
+max-width:100%;
+border-radius:25%;
 }
 
 #licoes_aprendidas {
-    width: 35%;
-    display: inline-block;
-    margin: 10px;
-    
+    width:35%;
+    display:inline-block;
+    margin:10px;
     font-family:Arial, Helvetica, sans-serif;   
 }
 
@@ -52,8 +50,6 @@ border-radius: 25%;
     width: 35%;
     display: inline-block;
     margin: 10px;
-    
-   
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -65,6 +61,7 @@ border-radius: 25%;
     background-color: rgb(233, 18, 18);
     margin-bottom: auto;     
      }
+
 #lado-direito {
     border: 70px;
     margin-left: 70%;
