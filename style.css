@@ -3,8 +3,12 @@ body {
 }
 
 h1 {
-    color: rgb(3, 3, 233);
+    color: rgb(3, 3, 233);    
     
+}
+
+li {
+    color: black;
 }
 #cabecalho {
     position: fixed;
@@ -21,8 +25,21 @@ h1 {
     text-align: center;
     display: inline-block;
 }
-
+#navinicio { 
+    display: inline;
+    color: black;
+}
 .foto {
 border:  1px red solid;
-
+}
+#licoes_aprendidas {
+    width: 50%;
+    display: inline-block;
+    margin: 10px;
+    margin-right: 0;
+    margin-left: 40%;
+    padding: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 3px solid rgb(255, 251, 0)
+    
 }
