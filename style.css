@@ -3,17 +3,17 @@ body {
 }
 
 h1 {
-  color: rgb(3, 3, 233);
+  color: rgb(7, 7, 165);
 }
 
 h2 {
   text-align: center;
-  color: rgb(39, 39, 9);
+  color: rgb(79, 82, 233);
 }
 
 h3 {
   text-align: left;
-  color: rgb(31, 31, 15);
+  color: rgb(30, 48, 182);
   margin-left: auto;
   margin-right: auto;
 }
@@ -44,14 +44,20 @@ li {
   text-align: center;
   display: inline-block;
 }
+ 
+#blocoesqdireita {
+  display: inline-block;
+  background-color: chartreuse;
+}
 
 #navinicio {
+  
   display: inline;
   color: black;
 }
 
 #minha_foto {
-  display: block;
+  display: inline-block;
   max-width: 100%;
   border-radius: 25%;
   margin-left: 20%;
@@ -85,7 +91,7 @@ li {
 #lado-direito {
   border: 70px;
   margin-left: 70%;
-  top: 100px;
+  top:190px;
   position: absolute;
   width: 40ch;
 }
@@ -93,12 +99,17 @@ li {
 #lado-esquerdo {
   max-width: 600ch;
   overflow: hidden;
-  text-align: justify;
+  text-align: center;
   width: 75%;
 }
 
 .licoes {
-  display: inline-block;
-  width: 70%;
-  background-color: rgb(238, 190, 190);
+  display: inline-flex;
+  width: 45%;
+  background-color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10%;
+  padding: auto;
+  
+  border: blue;
 }
