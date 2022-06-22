@@ -44,17 +44,6 @@ li {
   text-align: center;
   display: inline-block;
 }
- 
-#blocoesqdireita {
-  display: inline-block;
-  background-color: chartreuse;
-}
-
-#navinicio {
-  
-  display: inline;
-  color: black;
-}
 
 #minha_foto {
   display: inline-block;
@@ -83,14 +72,14 @@ li {
   line-height: 0em;
   font-size: 15px;
   display: inline-block;
-  background-color: rgb(241, 232, 232);
+  background-color: rgb(115, 238, 141);
   height:35px;
   padding: 10px;
 }
 
 #lado-direito {
   border: 70px;
-  margin-left: 70%;
+  margin-left: 60%;
   top:190px;
   position: absolute;
   width: 40ch;
@@ -100,7 +89,7 @@ li {
   max-width: 600ch;
   overflow: hidden;
   text-align: center;
-  width: 75%;
+  width: 80%;
 }
 
 .licoes {
