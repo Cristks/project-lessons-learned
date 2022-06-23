@@ -75,22 +75,24 @@ li {
   background-color: rgb(115, 238, 141);
   height:35px;
   padding: 10px;
-}
+  } 
 
-#lado-direito {
-  border: 70px;
-  margin-left: 60%;
-  top:190px;
-  position: absolute;
-  width: 40ch;
+.lado-direito {
+  margin-left: 70%;
+  top: 90px;
+  position: fixed;
+  width: 20%;
+  float: right;
+  height: 20%;
 }
-
-#lado-esquerdo {
-  max-width: 600ch;
-  overflow: hidden;
-  text-align: center;
+.lado-esquerdo {
+  top: 90px;
+  margin-right: 20%; 
+  text-align: left;
   width: 80%;
-}
+  height: 20%;
+  float: right;  
+  }
 
 .licoes {
   display: inline-flex;
@@ -99,6 +101,5 @@ li {
   font-family: Arial, Helvetica, sans-serif;
   margin-left: 10%;
   padding: auto;
-  
   border: blue;
-}
+ }
