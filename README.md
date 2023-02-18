@@ -1,13 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Peek 17-02-2023 22-10](https://user-images.githubusercontent.com/106772807/219825533-e55159e4-7ddf-4779-b8e2-134ce7b51af1.gif)
+
+
 # :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+
+![inicio learn](https://user-images.githubusercontent.com/106772807/219825627-b3b4baea-2ec4-4c5c-b1b3-87afe68cc797.png)
+![100 lessos](https://user-images.githubusercontent.com/106772807/219825635-559c977c-143b-4829-b31b-ace0821c64c7.png)
