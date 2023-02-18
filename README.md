@@ -1,5 +1,5 @@
 
-# ![image](https://user-images.githubusercontent.com/106772807/219826085-3b7cfb75-d6af-43c1-bf2f-aab0d8743668.png)Boas vindos ao projeto Lesson Learned![image](https://user-images.githubusercontent.com/106772807/219826091-e7c2b5c3-81be-4c48-bfbc-9c63fb99a412.png)
+# 📔Boas vindos ao projeto Lesson Learned!📔
 
 
 
