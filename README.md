@@ -1,5 +1,5 @@
 
-# 📔Bem vindos ao projeto Lesson Learned!📔
+# 📔 Projeto Lesson Learned! 📔
 
 
 
