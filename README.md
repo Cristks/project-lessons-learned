@@ -1,5 +1,5 @@
 
-# 📔 Projeto Lesson Learned! 📔
+# 📔 Projeto Lessons Learned! 📔
 
 
 
